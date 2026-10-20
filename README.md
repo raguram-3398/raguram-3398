@@ -2,7 +2,7 @@
 
 I build AI software that shows its work: answers with sources, quality measured on every change, and apps that run live.\
 MS in Information Science (University of North Texas) · former SQL Developer supporting Ford\
-Looking for **Software Engineer** and **AI Engineer** roles.
+Looking for **Software Engineer** and **AI Engineer** related roles.
 
 ---
 
