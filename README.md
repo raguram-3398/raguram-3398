@@ -1,4 +1,4 @@
-# Hi, I'm Ram
+# Hi, I'm Raguram
 
 I build AI software that shows its work: answers with sources, quality measured on every change, and apps that run live.\
 MS in Information Science (University of North Texas) · former SQL Developer supporting Ford\
