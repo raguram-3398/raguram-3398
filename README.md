@@ -10,7 +10,7 @@ Actively looking for **Software Engineer** and **AI Engineer** related roles.
 
 **[Multimodal RAG Engine](https://github.com/raguram-3398/Multimodal-RAG-Engine)** · [Live demo](https://huggingface.co/spaces/raguram3398/Multimodal-RAG-Engine)\
 Ask questions about 52 FDA documents (2,313 pages, many of them charts). Every answer cites the exact PDF and page, and it declines when the answer isn't there.\
-92% of answer claims supported by the cited pages · 20 of 20 trick questions declined · about $0.001 per answer
+92% of answer claims supported by the cited pages · 20 of 20 trick questions declined · about $0.001 per answer · also deployed on AWS with GitHub Actions CI/CD
 
 **[Sales Call Intelligence](https://github.com/raguram-3398/Sales-Intelligence)** · [Live demo](https://huggingface.co/spaces/raguram3398/sales-intelligence)\
 Upload a sales call and get objections, action items, sentiment and a summary, streamed live, with personal details removed before the AI sees the call.\
@@ -25,7 +25,7 @@ The step-by-step path behind both products: small, self-contained projects, each
 
 **Languages & tools:** Python · SQL · Git · uv · pytest · ruff · GitHub Actions\
 **AI & search:** Claude, OpenAI · RAG · Pinecone · BGE / MiniLM embeddings · BM25 · cross-encoder reranking · RAGAS\
-**Apps & deployment:** FastAPI · Streamlit · Pydantic · Docker · Hugging Face Spaces
+**Apps & deployment:** FastAPI · Streamlit · Pydantic · Docker · Hugging Face Spaces · AWS (EC2, ECR, IAM, SSM, CloudFront, CloudWatch)
 
 ---
 
