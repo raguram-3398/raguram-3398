@@ -8,6 +8,10 @@ Actively looking for **Software Engineer** and **AI Engineer** related roles.
 
 ### Featured projects
 
+**[Support Agent](https://github.com/raguram-3398/Support-Agent)**\
+A customer support agent that answers order questions and issues refunds. Refunds over $100 pause for a person's approval, and a paused run survives an API restart.\
+26 of 27 eval tasks passed (3 trials each) · 4 of 4 attacks blocked · tools served over MCP with OAuth · about $0.04 per full eval run
+
 **[Multimodal RAG Engine](https://github.com/raguram-3398/Multimodal-RAG-Engine)** · [Live demo](https://huggingface.co/spaces/raguram3398/Multimodal-RAG-Engine)\
 Ask questions about 52 FDA documents (2,313 pages, many of them charts). Every answer cites the exact PDF and page, and it declines when the answer isn't there.\
 92% of answer claims supported by the cited pages · 20 of 20 trick questions declined · about $0.001 per answer · also deployed on AWS with GitHub Actions CI/CD
@@ -17,18 +21,16 @@ Upload a sales call and get objections, action items, sentiment and a summary, s
 About $0.06 per call · 95% of code covered by tests · 27 of 27 personal details removed in the privacy test
 
 **[From Python to Production AI: The Build Log](https://github.com/raguram-3398/AI-engineer)**\
-The step-by-step path behind both products: small, self-contained projects, each with a plain-language README.
+The step-by-step path behind all three projects: small, self-contained projects, each with a plain-language README.
 
 ---
 
 ### What I work with
 
-**Languages & tools:** Python · SQL · Git · uv · pytest · ruff · GitHub Actions\
-**AI & search:** Claude, OpenAI · RAG · Pinecone · BGE / MiniLM embeddings · BM25 · cross-encoder reranking · RAGAS\
-**Apps & deployment:** FastAPI · Streamlit · Pydantic · Docker · Hugging Face Spaces · AWS (EC2, ECR, IAM, SSM, CloudFront, CloudWatch)
-
----
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/ragurampoobalan/) · [ragurampoobalan@gmail.com](mailto:ragurampoobalan@gmail.com)
+**Languages:** Python · SQL\
+**AI & Agents:** LangGraph · LangChain · MCP · Claude (Haiku, Sonnet) · OpenAI Whisper · tool calling · human-in-the-loop · structured outputs · prompt versioning\
+**RAG:** Embeddings (BGE, MiniLM) · hybrid search (BM25 + vectors) · cross-encoder reranking · Pinecone · FAISS\
+**Backend & Security:** FastAPI · REST · async Python · server-sent events · Pydantic · Streamlit · OAuth 2.0 (Keycloak) · JWT · PII removal\
+**Data:** PostgreSQL · Redis · SQLAlchemy\
+**Evaluation:** RAGAS · LLM-as-judge · agent evals · Recall@K · NDCG@K · Langfuse · pytest\
+**Cloud & DevOps:** AWS (EC2, ECR, IAM, SSM, CloudFront, CloudWatch) · Docker · GitHub Actions · Hugging Face Spaces · uv · ruff · Git
