@@ -28,9 +28,9 @@ The step-by-step path behind all three projects: small, self-contained projects,
 ### What I work with
 
 **Languages:** Python · SQL\
-**AI & Agents:** LangGraph · LangChain · MCP · Claude (Haiku, Sonnet) · OpenAI Whisper · tool calling · human-in-the-loop · structured outputs · prompt versioning\
-**RAG:** Embeddings (BGE, MiniLM) · hybrid search (BM25 + vectors) · cross-encoder reranking · Pinecone · FAISS\
-**Backend & Security:** FastAPI · REST · async Python · server-sent events · Pydantic · Streamlit · OAuth 2.0 (Keycloak) · JWT · PII removal\
+**AI & Agents:** LangGraph · LangChain · MCP · prompt engineering · prompt versioning\
+**RAG:** Embeddings (BGE, MiniLM) · hybrid search (BM25 + vectors) · cross-encoder reranking · Vector databases (Pinecone, FAISS)\
+**Backend & Security:** FastAPI · REST API · async Python · Pydantic · Streamlit · OAuth 2.0 (Keycloak) · JWT\
 **Data:** PostgreSQL · Redis · SQLAlchemy\
 **Evaluation:** RAGAS · LLM-as-judge · agent evals · Recall@K · NDCG@K · Langfuse · pytest\
-**Cloud & DevOps:** AWS (EC2, ECR, IAM, SSM, CloudFront, CloudWatch) · Docker · GitHub Actions · Hugging Face Spaces · uv · ruff · Git
+**Cloud & DevOps:** AWS (EC2, ECR, IAM, SSM, CloudFront, CloudWatch) · Docker · GitHub Actions · Git · Linux
